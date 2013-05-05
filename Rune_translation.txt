@@ -1,0 +1,16 @@
+eth - time
+en - day
+err - year
+mir - death/sleep
+cal - knowledge
+
+yor - 0
+noy - 1
+twa - 2
+drei - 3
+qor - 4
+qin - 5
+soin - 6
+sat - 7
+ut - 8
+nay - 9
