@@ -14,3 +14,4 @@ soin - 6
 sat - 7
 ut - 8
 nay - 9
+dus - 10
